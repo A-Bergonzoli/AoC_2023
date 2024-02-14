@@ -5,7 +5,7 @@
 #include <unordered_map>
 #include <vector>
 
-#include "pypp.h" // TODO: Add link to Pypp repo
+#include "pypp.hpp" // https://github.com/A-Bergonzoli/pypp
 
 constexpr int8_t kMaxRed = 12;
 constexpr int8_t kMaxGreen = 13;
